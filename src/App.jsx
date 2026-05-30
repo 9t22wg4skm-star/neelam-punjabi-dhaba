@@ -81,48 +81,44 @@ const featuredDishes = [
   {
     name: 'Dal Makhani',
     description: 'Slow-cooked black lentils with rich butter and cream.',
-    image:
-      'https://images.unsplash.com/photo-1604908177522-105aa7a9a319?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800&q=80',
   },
   {
     name: 'Paneer Butter Masala',
     description: 'Velvety paneer in a fragrant tomato-spice gravy.',
-    image:
-      'https://images.unsplash.com/photo-1604908177777-8acb1b7a4f8b?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800&q=80',
   },
   {
     name: 'Amritsari Kulcha',
     description: 'Flaky stuffed bread with chutney and pickle.',
-    image:
-      'https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&q=80',
   },
   {
-    name: 'Punjabi Thali',
-    description: 'A royal platter of curries, dal, rice, and sides.',
-    image:
-      'https://images.unsplash.com/photo-1611020087708-9bc2bbadbc55?auto=format&fit=crop&w=800&q=80',
-  },
-  {
-    name: 'Tandoori Roti',
-    description: 'Charred, hand-rolled flatbread from the tandoor.',
-    image:
-      'https://images.unsplash.com/photo-1603072814810-1d25f2ee07fb?auto=format&fit=crop&w=800&q=80',
-  },
-  {
-    name: 'Sweet Lassi',
+  name: 'Punjabi Thali',
+  description: 'A royal platter of curries, dal, rice, and sides.',
+  image:
+    'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80',
+},
+ {
+  name: 'Tandoori Roti',
+  description: 'Charred, hand-rolled flatbread from the tandoor.',
+  image:
+    'https://images.unsplash.com/photo-1517244683847-7456b63c5969?auto=format&fit=crop&w=800&q=80',
+},
+{
+  name: 'Sweet Lassi',
     description: 'Creamy saffron lassi topped with pistachios.',
-    image:
-      'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1626200419199-391ae4be7a41?w=800&q=80',
   },
 ]
 
 const galleryImages = [
-  'https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=900&q=80',
-  'https://images.unsplash.com/photo-1498575207492-0bab2a998a49?auto=format&fit=crop&w=900&q=80',
-  'https://images.unsplash.com/photo-1576402187878-81a2b0fb34cd?auto=format&fit=crop&w=900&q=80',
-  'https://images.unsplash.com/photo-1512058564366-c9e5f7214a09?auto=format&fit=crop&w=900&q=80',
-  'https://images.unsplash.com/photo-1604908554077-82c680d2ec86?auto=format&fit=crop&w=900&q=80',
-  'https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=900&q=80',
+  'https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=900&q=80',
+  'https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=900&q=80',
+  'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80',
+  'https://images.unsplash.com/photo-1559339352-110d35aa65de?auto=format&fit=crop&w=900&q=80',
+  'https://images.unsplash.com/photo-1514326640560-7d063ef2aed5?auto=format&fit=crop&w=900&q=80',
+  'https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=80',
 ]
 
 const testimonials = [
